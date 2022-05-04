@@ -1,52 +1,13 @@
-<!DOCTYPE html>
-<html>
+body {
+  background-color: AntiqueWhite;
+}
 
-<head>
-  <title>All About Me: Lily Weirich</title>
-</head>
-
-<body>
-  <nav>
-    <a href="./index.html">All About me</a>
-  </nav>
-  <h1>Introduction</h1>
-  <nav>
-    <ul>
-      <li><a href="#introduction">Introduction</a></li>
-      <li><a href="#beans">My Bunny</a></li>
-      <li><a href="#pics">Pictures of Beans</a></li>
-    </ul>
-  </nav>
-  <div id="introduction">
-    <h2>Current Life</h2>
-    <p>My Name is Lily Weirich, and I am a junior here at The University of Missouri. I am majoring in Psychology with an emphasis in Human Resources and Hospitality Managament. I grew up in a small town in Southern Illinois called Alton, which is where most of my family lives. I currently stay in an apartment with my four close friends, and my fifth roommate, my Bunny, Beans!
-</p>
-    <a href="https://en.wikipedia.org/wiki/Alton,_Illinois" target="_blank">Learn More About My Hometown</a>
-    <h3>Fun Facts about Alton</h3>
-    <ul>
-      <li>Home of the tallest man, Robert Wadlow</li>
-      <li>Was traveled through by Lewis and Clark</li>
-      <li>Home of the Piasa Bird</li>
-      <li>Downtown Alton sits on the Mississippi River</li>
-    </ul>
-    <h3>My Favorite place in Alton</h3>
-    <p>Its everyones guilty pleasure, Ice Cream. Alton is home to a family owned business called Shivers. They have the best ice cream ever!</p>
-  </div>
-  <div id="beans">
-    <h2>My Bunny</h2>
-    <h3>Beans is a 9 month old Mini Rex Rabbit who loves to interact with me and my friends. Here are some funny bunny facts!</h3>
-    <ol>
-      <li>To express happiness, Bunnies will sometimes jump around in a carzy fashion.</li>
-      <li>A baby rabbit is called a kit, a female is called a doe and a male is called a buck.</li>
-      <li>Rabbits teeth never stop growing!</li>
-    </ol>
-    <h3>Is having a rabbit easy?</h3>
-    <p>The simple answer is, no. However, if you possess the time and dedication to provide constant care for your bunny, you wil see success. It was a long process raising Beans from when he was just a small rabbit, but if you do your reasearch, and do it right, you shoudl raise a happy, healthy, and freindly rabbit!</p>
-  </div>
-  <div id="pics">
-    <h2>Pictures of Beans</h2>
-    <img src="https://github.com/lgwggh/lgwggh.github.io/blob/main/IMG_0270.PNG" />
-  </div>
-</body>
-
-</html>
+h1 {
+  color: CadetBlue;
+}
+p.thick {
+  font-weight: bold;
+}
+p.a {
+  font-style: italic;
+}
